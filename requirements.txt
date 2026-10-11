@@ -1,8 +1,11 @@
-# Baseline dependencies for Qiskit Fall Fest 2026 Hackathon
+# Quantum Battleship — Qiskit Fall Fest 2026 Dependencies
 qiskit>=1.0.0
 qiskit-aer>=0.14.0
-numpy
-matplotlib
+streamlit>=1.35.0
+matplotlib>=3.8.0
+numpy>=1.24.0
+pandas>=2.0.0
 rustworkx
 scipy
 jupyter
+pylatexenc
